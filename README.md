@@ -24,6 +24,20 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![Screenshot 2024-05-10 181414](https://github.com/23004027/EXNO-4-DS/assets/138956447/5c1ddf8f-7253-4137-a093-58346f56e48e)
+![Screenshot 2024-05-10 181426](https://github.com/23004027/EXNO-4-DS/assets/138956447/f1e6cc0f-f9b7-428b-ab24-eb3a0c53406a)
+![Screenshot 2024-05-10 181435](https://github.com/23004027/EXNO-4-DS/assets/138956447/2557abd4-2f06-4a75-9686-fe84165e8e19)
+![Screenshot 2024-05-10 181453](https://github.com/23004027/EXNO-4-DS/assets/138956447/1e0f4048-34a9-4852-bcef-4179cfd61546)
+![Screenshot 2024-05-10 181507](https://github.com/23004027/EXNO-4-DS/assets/138956447/46945ed2-6544-4e33-bb34-6db672eb5c85)
+![Screenshot 2024-05-10 181524](https://github.com/23004027/EXNO-4-DS/assets/138956447/3cdac395-107e-4fed-80da-0d92055ae7cc)
+![Screenshot 2024-05-10 181536](https://github.com/23004027/EXNO-4-DS/assets/138956447/ee966088-fd34-48c9-b6ed-13dc345b716d)
+![Screenshot 2024-05-10 181550](https://github.com/23004027/EXNO-4-DS/assets/138956447/10a840db-66f6-454d-baf5-51a9a241a567)
+![Screenshot 2024-05-10 181604](https://github.com/23004027/EXNO-4-DS/assets/138956447/069e9bf4-662d-4aba-a039-3d18c13db406)
+![Screenshot 2024-05-10 181624](https://github.com/23004027/EXNO-4-DS/assets/138956447/3d5e3299-396a-4416-9166-a7ecfa0396af)
+![Screenshot 2024-05-10 181634](https://github.com/23004027/EXNO-4-DS/assets/138956447/b2cfcf70-8169-4088-b145-75bc310ac610)
+![Screenshot 2024-05-10 181645](https://github.com/23004027/EXNO-4-DS/assets/138956447/36e37723-19f5-49a2-a367-5832dbf84a0d)
+![Screenshot 2024-05-10 181655](https://github.com/23004027/EXNO-4-DS/assets/138956447/d0167284-f3f1-4a64-9725-f4e74b088399)
+![Screenshot 2024-05-10 181703](https://github.com/23004027/EXNO-4-DS/assets/138956447/cdd70e7a-1df5-4d72-b4b4-439be1333c6d)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       Thus feature scaling and selection is performed.
