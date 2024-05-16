@@ -35,9 +35,6 @@ The feature selection techniques used are:
 ![Screenshot 2024-05-10 181604](https://github.com/23004027/EXNO-4-DS/assets/138956447/069e9bf4-662d-4aba-a039-3d18c13db406)
 ![Screenshot 2024-05-10 181624](https://github.com/23004027/EXNO-4-DS/assets/138956447/3d5e3299-396a-4416-9166-a7ecfa0396af)
 ![Screenshot 2024-05-10 181634](https://github.com/23004027/EXNO-4-DS/assets/138956447/b2cfcf70-8169-4088-b145-75bc310ac610)
-![Screenshot 2024-05-10 181645](https://github.com/23004027/EXNO-4-DS/assets/138956447/36e37723-19f5-49a2-a367-5832dbf84a0d)
-![Screenshot 2024-05-10 181655](https://github.com/23004027/EXNO-4-DS/assets/138956447/d0167284-f3f1-4a64-9725-f4e74b088399)
-![Screenshot 2024-05-10 181703](https://github.com/23004027/EXNO-4-DS/assets/138956447/cdd70e7a-1df5-4d72-b4b4-439be1333c6d)
 
 # RESULT:
        Thus feature scaling and selection is performed.
